@@ -52,7 +52,7 @@ qa-api-lab/
 ### Step 1: Clone the repository
 
 ```bash
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/Dragona12/-LAB-2-API.git
 cd qa-api-lab
 ```
 
@@ -161,7 +161,7 @@ The testing script covers:
 
 ## 9. Demonstration Video
 
-**Video link:** [Insert your demonstration video link here]
+**Video link:** [text](url)
 
 The video demonstrates:
 - Introduction to the selected Hugging Face model.

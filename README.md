@@ -161,7 +161,7 @@ The testing script covers:
 
 ## 9. Demonstration Video
 
-**Video link:** [text](url)
+**Video link:** [video](https://drive.google.com/file/d/1VAq2KAgl3vdsS3SzZXHdtoQetlc6LgO2/view?usp=sharing)
 
 The video demonstrates:
 - Introduction to the selected Hugging Face model.

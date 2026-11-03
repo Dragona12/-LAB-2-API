@@ -1,9 +1,0 @@
-{
-    "question":  "who created Rust",
-    "context": "Software developer Graydon Hoare created Rust in 2006 while working at Mozilla, which officially sponsored the project in 2009. The first stable release, Rust 1.0, was published in May 2015. The project has been sponsored by the Rust Foundation since February 2021. Rust has been adopted by software projects, especially in web services and system software. It has been studied academically and has a community of developers."
-}
-
-{
-    "question": "who created Python",
-    "context": "Python was created by Guido van Rossum. It was first released in 1991. Python is a high-level, general-purpose programming language."
-}

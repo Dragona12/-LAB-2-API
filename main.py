@@ -21,7 +21,7 @@ async def lifespan(app: FastAPI):
     )
 
     print("QA model loaded successfully!")
-
+    print("Swagger UI: http://127.0.0.1:8000/docs")
     yield
 
     print("Application shutting down...")

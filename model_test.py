@@ -19,7 +19,7 @@ It was first released in 1991.
 Python is a high-level, general-purpose programming language.
 """
 
-question = "Who is Vinh Kiet?"
+question = "Who created Python?"
 
 result = qa_pipeline(
     question=question,
